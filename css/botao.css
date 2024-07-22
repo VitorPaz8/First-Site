@@ -1,0 +1,47 @@
+.botoes{
+    padding: 100px;
+    align-items: center;
+    align-self: center;
+    display: flex;
+    .btn1{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin: 0px 100px 0px 100px;
+        font-size: large;
+        border: solid;
+        border-color:rgb(10, 139, 10);
+        background-color: rgb(4, 255, 4);
+        color: black;
+        border-radius: 30px;
+        padding: 10px 50px 10px 50px;
+    }
+    .btn2{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin: 0px 100px 0px 0px;
+        font-size: large;
+        border: solid;
+        border-color:rgb(10, 139, 10);
+        background-color: rgb(4, 255, 4);
+        color: black;
+        border-radius: 30px;
+        padding: 10px 50px 10px 50px;
+    }
+    .btn3{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: large;
+        border: solid;
+        border-color: rgb(4, 255, 4);;
+        background-color: black;
+        color: rgb(4, 255, 4);
+        border-radius: 30px;
+        padding: 10px 50px 10px 50px;
+    }
+    .btn4{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin: 0px 100px 0px 100px;
+        font-size: large;
+        background-color: black;
+        color: rgb(4, 255, 4);
+        padding: 10px 10px 10px 10px;
+        border: 0cap;
+    }
+}
